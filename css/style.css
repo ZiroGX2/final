@@ -57,6 +57,15 @@ canvas {
 	width: 75%;
 	background: #c6caf1;
 	transform: translate(15%);
+	
+.header {
+  text-align: center;
+
+	
+	width: 100%;
+	background: #c6caf1;
+
+}
 }
 		.navbar {
 		 	background-color: #444;
