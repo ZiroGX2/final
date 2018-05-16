@@ -51,19 +51,20 @@ canvas {
 }
 .content {
   text-align: center;
+	 opacity: 0.5;
 	font-size: 500%;
 	color: #2c2e43;
 	height: 100vh;
 	width: 75%;
 	background: #c6caf1;
 	transform: translate(15%);
-	
-.header {
-  text-align: center;
 
 	
-	width: 100%;
-	background: #c6caf1;
+.header {
+
+	
+	
+	
 
 }
 }
