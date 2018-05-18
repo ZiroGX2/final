@@ -64,16 +64,8 @@ canvas {
 	width: 75%;
 	background: #c6caf1;
 	transform: translate(15%);
-
-	
-.header {
-
-	
-	
-	
-
 }
-}
+	
 		.navbar {
 		 	background-color: #444;
 		 	overflow: hidden;
@@ -168,5 +160,5 @@ canvas {
 	
 }
 p.content {
-	margin: 0px;
+	
 }
